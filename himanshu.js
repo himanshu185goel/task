@@ -3,3 +3,4 @@ btn.addEventListener('click'(e) =>{
   e.preventDefault();
   console.log(e.target.id);
 });
+console.log('himanshu')
